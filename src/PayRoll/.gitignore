@@ -1,5 +1,12 @@
+# Eclipse files
 bin/
-*.class
 .settings/
-.project
 .classpath
+.project
+
+# Compiled Java files
+*.class
+
+# OS junk
+.DS_Store
+Thumbs.db
